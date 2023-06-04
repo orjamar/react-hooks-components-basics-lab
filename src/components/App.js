@@ -24,9 +24,6 @@ function About() {
   );
 }
 
-{/* write an <About> component here */}
-
-
 function App() {
   return (
     <div>
